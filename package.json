@@ -1,0 +1,27 @@
+{
+  "name": "react-native-practice",
+  "version": "1.0.0",
+  "description": "Test for react native auth0 integration",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BenParisot/react-native-practice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BenParisot/react-native-practice/issues"
+  },
+  "homepage": "https://github.com/BenParisot/react-native-practice#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "express-jwt": "^5.3.1",
+    "express-jwt-authz": "^2.3.1",
+    "jwks-rsa": "^1.6.0"
+  }
+}
